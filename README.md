@@ -1,7 +1,7 @@
  # Big Billion Days Regional Performance Review
 
 ## Tools Used
-- **SQL compiler and dialect:** Online SQL compiler, SQLite dialect
+- **SQL compiler and dialect:** Programiz Online SQL Editor, SQLite dialect
 - **Spreadsheet:** Google Sheets
 - **Tableau Public dashboard:** Yes, created in Tableau Public
 
